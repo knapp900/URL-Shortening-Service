@@ -164,6 +164,6 @@ ab -n 10000 -c 50 -p data.json -T application/json http://localhost:8080/
 ## Контакты
 
 - **Email: knapp900@gmail.com**
-- **LinkedIn: [Arthur Knapp](#https://www.linkedin.com/in/arthur-knapp-808a6a166/)**
+- **LinkedIn: [Arthur Knapp](#https://www.linkedin.com/in/arthur-knapp-dev/)**
 - **GitHub: [Knapp900](#https://github.com/knapp900)**
 
